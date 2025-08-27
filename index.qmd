@@ -12,15 +12,15 @@ In this workshop, we use [Google Colab](https://colab.research.google.com/) as o
 
 ------------------------------------------------------------------------
 
-### Session 1 Python Programming Basics
+### Session 1. Programming Basics
 
 -   [Slides](python_intro.pdf)
--   Notebook: [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/python-intro-2025-fall/blob/master/docs/python_programming_basics.ipynb)
+-   Notebook: [![](colab-badge.svg)](https://colab.research.google.com/github/rmdal/python-intro-2025-fall/blob/master/docs/python_programming_basics.ipynb)
 -   Readings & exercises: Section *Basics* in the [Python Intro Crash Course](https://rmdal.github.io/python-tutorial-live/).
 -   Prepare for the next session: Section *Data Analysis* in the [Python Intro Crash Course](https://rmdal.github.io/python-tutorial-live/).
     
-### Session 2 Data Analysis Basics
--   Notebook: [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/python-intro-2025-fall/blob/master/docs/python_data_analysis_basics.ipynb)
+### Session 2. Data Analysis Basics
+-   Notebook: [![](colab-badge.svg)](https://colab.research.google.com/github/rmdal/python-intro-2025-fall/blob/master/docs/python_data_analysis_basics.ipynb)
 -   Readings & exercises: Section *Data Analysis* in the [Python Intro Crash Course](https://rmdal.github.io/python-tutorial-live/).
 
 ------------------------------------------------------------------------
